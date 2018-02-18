@@ -11,9 +11,7 @@ namespace FactionsUI;
 use pocketmine\command\Command;
 use pocketmine\command\CommandSender;
 use pocketmine\event\Listener;
-use pocketmine\{
-    command\ConsoleCommandSender, Server, Player, utils\TextFormat
-};
+use pocketmine\{command\ConsoleCommandSender, Server, Player, utils\TextFormat};
 use pocketmine\plugin\PluginBase;
 
 class Main extends PluginBase implements Listener{

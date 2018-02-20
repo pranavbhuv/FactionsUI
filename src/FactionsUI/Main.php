@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: pacma
- * Date: 1/26/2018
- * Time: 5:48 PM
- */
 
 namespace FactionsUI;
 

@@ -1,2 +1,2 @@
 # FactionsUI
-Requested by @optimusprime33
+Download the plugins in dependencies first please.

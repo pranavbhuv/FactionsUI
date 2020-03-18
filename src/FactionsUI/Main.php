@@ -12,7 +12,7 @@ class Main extends PluginBase implements Listener{
 
     public function onEnable(){
         $this->getServer()->getPluginManager()->registerEvents($this, $this);
-        $this->getLogger()->info("FactionsUI made By QuiverlyRivalry\nThis is a private plugin, want more plugins?\n Contact here QuiverlyRivalry#4535\n on Discord!");
+        $this->getLogger()->info("FactionsUI: Enabled");
     }
 
     public function onCommand(CommandSender $sender, Command $command, string $label, array $args) : bool{

@@ -1,17 +1,9 @@
 name: FactionsUI
-
 main: FactionsUI\Main
-
 version: 1.0.2
-
 api: 3.0.0
-
 author: QuiverlyRivalry
 
-
-
 commands:
-
  fui:
-
-  description: "FactionsUI, made by your mom!"
+  description: "Open the Faction Management Interface"
